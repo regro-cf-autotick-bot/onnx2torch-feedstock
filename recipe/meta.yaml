@@ -40,7 +40,7 @@ about:
   license: Apache-2.0
   license_family: APACHE
   license_file: LICENSE
-  summary: "Nice Onnx to Pytorch converter"
+  summary: Nice Onnx to Pytorch converter
   doc_url: https://github.com/ENOT-AutoDL/onnx2torch
   dev_url: https://github.com/ENOT-AutoDL/onnx2torch
 
