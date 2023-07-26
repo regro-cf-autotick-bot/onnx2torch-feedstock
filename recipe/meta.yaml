@@ -1,5 +1,5 @@
 {% set name = "onnx2torch" %}
-{% set version = "1.5.10" %}
+{% set version = "1.5.11" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 14682b91c5cf8cd3aa5d077ba1889599a68e9fe4ce72fa5f91e4e755c80ac03c
+  sha256: 5254522279fb15c2e3ccd33ca9104dbd08cf4e188341338b4a3aead50475c419
 
 build:
   number: 0
